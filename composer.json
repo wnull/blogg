@@ -1,0 +1,11 @@
+{
+    "require": {
+        "pandcar/base": "^2.3",
+        "techone/database": "^0.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blogg\\": "Blogg/"
+        }
+    }
+}
